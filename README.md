@@ -1,5 +1,5 @@
 <h1 align="center">It's Prashant Adhikari</h1>
-<p align="center">Chill, I ain't boring you describing abouut my passion. But if you really are interested upon my portfolio do visit <a target="_blank" href="https://www.prashantadhikari7.com.np">Prashant_Adhikari.portfollio</a>.</p>
+<p align="center">Chill, I ain't boring you describing abouut my passion. But if you really are interested upon my portfolio do visit <a target="_blank" href="https://www.prashantadhikari7.com.np">www.prashantadhikari7.com.np</a>.</p>
 <h2 align="center"></h2>
 <p align="center"><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" style="display: inline-block; ""><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="55" height="55" /></a>
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" style="display: inline-block; "><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="55" height="55" /></a>
@@ -33,6 +33,6 @@
 <a target="_blank" href="https://www.youtube.com/@lynxplays6702" style="display: inline-block; "><img src="https://img.shields.io/badge/youtube-logo?style=for-the-badge&logo=youtube&logoColor=white&color=%23cc0000" alt="youtube" /></a></p>
 <h2 align=""></h2>
 <p><a align="center" href="https://github.com/ryo-ma/github-profile-trophy"><img  src="https://github-profile-trophy.vercel.app/?username=pr4shxnt" alt="pr4shxnt" /></a></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pr4shxnt&" alt="pr4shxnt" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pr4shxnt&" alt="pr4shxnt"/></p>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=pr4shxnt&show_icons=true&locale=en" alt="pr4shxnt" /></p>
 
