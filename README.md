@@ -33,6 +33,8 @@
 <a target="_blank" href="https://www.youtube.com/@lynxplays6702" style="display: inline-block; "><img src="https://img.shields.io/badge/youtube-logo?style=for-the-badge&logo=youtube&logoColor=white&color=%23cc0000" alt="youtube" /></a></p>
 <h2 align=""></h2>
 <p><a align="center" href="https://github.com/ryo-ma/github-profile-trophy"><img  src="https://github-profile-trophy.vercel.app/?username=pr4shxnt" alt="pr4shxnt" /></a></p>
-[![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1)](https://git.io/streak-stats)
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pr4shxnt&" alt="pr4shxnt"/></p>
+
+
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=pr4shxnt&show_icons=true&locale=en" alt="pr4shxnt" /></p>
 
