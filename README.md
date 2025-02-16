@@ -38,3 +38,8 @@
 
 <p><img align="center" src="https://streak-stats.demolab.com?user=pr4shxnt&" alt="pr4shxnt" /></p>
 
+<p align="center">
+ <a href="https://github.com/pr4shxnt">
+   <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=pr4shxnt&" />
+ </a>
+</p>
