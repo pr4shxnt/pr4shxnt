@@ -36,5 +36,5 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=pr4shxnt&" alt="pr4shxnt"/></p>
 
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=pr4shxnt&show_icons=true&locale=en" alt="pr4shxnt" /></p>
+<p><img align="center" src="https://streak-stats.demolab.com?user=pr4shxnt&" alt="pr4shxnt" /></p>
 
