@@ -1,4 +1,4 @@
-<h1 align="center">I am Prashant Adhikari</h1>
+<h1 align="center">It's Prashant Adhikari</h1>
 <p align="center">Chill, I ain't boring you describing about my passion. But if you really are interested upon my portfolio do visit <a target="_blank" href="https://www.prashantadhikari7.com.np">www.prashantadhikari7.com.np</a></p>
 <h2 align="center"></h2>
 <p align="center"><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" style="display: inline-block; ""><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="55" height="55" /></a>
