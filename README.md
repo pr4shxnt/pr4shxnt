@@ -47,7 +47,7 @@
   </a>
 </div>
 
-<div align="center">
+<div align="left">
   <a href="https://git.io/streak-stats" target="_blank">
     <img src="https://github-readme-streak-stats.herokuapp.com?user=pr4shxnt&theme=material-palenight"/>
   </a>
