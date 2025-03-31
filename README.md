@@ -34,10 +34,12 @@
 <h2 align=""></h2>
 
 
-<div align="left">
-  <a href="https://github.com/ryo-ma/github-profile-trophy" target="_blank">
+<div >
+  <a align="left" href="https://github.com/ryo-ma/github-profile-trophy" target="_blank">
     <img src="https://github-profile-trophy.vercel.app/?username=pr4shxnt&theme=material-palenight&column=4&margin-w=15&margin-h=15"/>
   </a>
+
+  <p align="right"> This are my trophies and achievements since i joined github </p>
 </div>
 
 <div>
