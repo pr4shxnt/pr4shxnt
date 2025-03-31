@@ -35,7 +35,7 @@
 
 
 <div >
-  <a align="left" href="https://github.com/ryo-ma/github-profile-trophy" target="_blank">
+  <a align="center" href="https://github.com/ryo-ma/github-profile-trophy" target="_blank">
     <img src="https://github-profile-trophy.vercel.app/?username=pr4shxnt&theme=material-palenight&column=4&margin-w=15&margin-h=15"/>
   </a>
 
@@ -43,13 +43,13 @@
 </div>
 
 <div>
-<div align="right">
+<div align="center">
   <a href="https://github-readme-stats.vercel.app" target="_blank">
     <img src="https://github-readme-stats.vercel.app/api?username=pr4shxnt&show_icons=true&theme=material-palenight"/>
   </a>
 </div>
 
-<div align="left">
+<div align="center">
   <a href="https://git.io/streak-stats" target="_blank">
     <img src="https://github-readme-streak-stats.herokuapp.com?user=pr4shxnt&theme=material-palenight"/>
   </a>
