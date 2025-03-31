@@ -32,7 +32,7 @@
 <a target="_blank" href="https://www.instagram.com/pr4xnt" style="display: inline-block; "><img src="https://img.shields.io/badge/instagram-logo?style=for-the-badge&logo=instagram&logoColor=white&color=%23F35369" alt="instagram" /></a>
 <a target="_blank" href="https://www.youtube.com/@lynxplays6702" style="display: inline-block; "><img src="https://img.shields.io/badge/youtube-logo?style=for-the-badge&logo=youtube&logoColor=white&color=%23cc0000" alt="youtube" /></a></p>
 <h2 align=""></h2>
-<p><a align="center" href="https://github.com/ryo-ma/github-profile-trophy"><img  src="https://github-profile-trophy.vercel.app/?username=pr4shxnt&theme=juicyfresh&column=6&margin-w=15&margin-h=15" alt="pr4shxnt" /></a></p>
+
 
 <div align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy" target="_blank">
