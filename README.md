@@ -35,6 +35,11 @@
 <p><a align="center" href="https://github.com/ryo-ma/github-profile-trophy"><img  src="https://github-profile-trophy.vercel.app/?username=pr4shxnt&theme=juicyfresh&column=6&margin-w=15&margin-h=15" alt="pr4shxnt" /></a></p>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=pr4shxnt&show_icons=true&theme=radical" alt="pr4shxnt"/></p>
 
+<div align="center">
+  <a href="https://github-readme-stats.vercel.app" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api?username=pr4shxnt&show_icons=true&theme=material-palenight"/>
+  </a>
+</div>
 
 <div align="center">
   <a href="https://git.io/streak-stats" target="_blank">
