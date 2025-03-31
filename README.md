@@ -36,7 +36,11 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=pr4shxnt&show_icons=true&theme=radical" alt="pr4shxnt"/></p>
 
 
-<p><img align="center" src="https://streak-stats.demolab.com?user=pr4shxnt&theme=radical" alt="pr4shxnt" /></p>
+<div align="center">
+  <a href="https://git.io/streak-stats" target="_blank">
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=pr4shxnt&theme=material-palenight"/>
+  </a>
+</div>
 
 <p align="center">
  <a href="https://github.com/pr4shxnt">
