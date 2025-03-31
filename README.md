@@ -121,7 +121,7 @@
 <div align="left">
   <a href="https://github.com/ryo-ma/github-profile-trophy" target="_blank">
     <img
-      src="https://github-profile-trophy.vercel.app/?username=pr4shxnt&theme=juicyfresh&column=8&margin-w=15&margin-h=15" />
+      src="https://github-profile-trophy.vercel.app/?username=pr4shxnt&theme=juicyfresh&column=6&margin-w=15&margin-h=15" />
   </a>
 
 
