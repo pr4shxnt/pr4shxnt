@@ -3,8 +3,8 @@
   portfolio do visit <a target="_blank" href="https://www.prashantadhikari7.com.np">www.prashantadhikari7.com.np</a></p>
 <h2 align="center"></h2>
 <p align="center"><a target="_blank"
-    href="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
-    style="display: inline-block; ""><img src="
+    
+    style="display: inline-block; ""><img src="href="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
     https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript"
     width="55" height="55" /></a>
   <a target="_blank"
