@@ -24,7 +24,7 @@ Visit [Prashant Adhikari](https://www.prashantadhikari7.com.np/) to explore my p
      if( needMoreInformation ) {
         setInform("Prashant knows React-Redux for centralized state management.")
      };
-  })
+  },[needMoreInformation])
 
 
 #NodeJS and ExpressJS
