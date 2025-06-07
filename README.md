@@ -28,9 +28,9 @@ Visit [Prashant Adhikari](https://www.prashantadhikari7.com.np/) to explore my p
 
 
 #NodeJS and ExpressJS
-  express.get(req, res) => {
+  app.get('/', (req, res) => {
      res.status(201).json({message: "Prashant knows NodeJS and ExpressJS"})
-     }
+     })
 
 
 #MongoDB
