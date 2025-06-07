@@ -1,32 +1,52 @@
-<h1 align="center">🧑🏽 Prashant Adhikari</h1>
-<h3 align="center">JavaScript | ReactJS | NodeJS | MongoDB</h3>
+# Prashant Adhikari
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=pr4shxnt&label=Profile%20views&color=0e75b6&style=flat" alt="pr4shxnt" /> </p>
+Prashant Adhikari is a software developer with a specialization in MERN stack focusing on full-fleged full-stack website application with efficient products. I am learning devOps practices in order to learn how to deploy my highly efficient project with ease. Currently I'm enrolled in the course oof Bachelor's of Computer Science with Artificial Intelligence in Sunway College Kathmandu. 
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pr4shxnt" alt="pr4shxnt" /></a> </p>
+## Portfolio
 
-<p align="left"> <a href="https://twitter.com/pr4xnt" target="blank"><img src="https://img.shields.io/twitter/follow/pr4xnt?logo=twitter&style=for-the-badge" alt="pr4xnt" /></a> </p>
+Visit [Prashant Adhikari](https://www.prashantadhikari7.com.np/) to explore my portfolio and projects. Any new fellas are allowed to view my portfolio without any hesitation. There is a separate Resume and Project Section to explore my experience as well as my personal Projects. You can contact me through my [Instagram handle](https://www.instagram.com/pr4xnt/) or my [Linked-in Profile](https://www.linkedin.com/in/prashant-adhikariii/) or my [Twitter Profile.](https://www.x.com/pr4xnt/) for any queries regarding my projects or your doubts. I can provide you mentorship or atleast give you a roadmap of how to start and what not to do while learning new things. Subscribe to [my blogs](https://blog.prashantadhikari7.com.np/) for my upcoming contents and researches.
 
-- 🌱 I work with **MERN stack.**
+## Languages, Framework and libraries
 
-- 👨‍💻 All of my projects are available at [https://www.prashantadhikari7.com.np](https://www.prashantadhikari7.com.np)
+```bash
+# python
+  print('Prashant knows Python')
 
-- 📝 I regularly write articles on [https://blog.prashantadhikari7.com.np](https://blog.prashantadhikari7.com.np)
 
-- 📄 Know about my experiences [https://www.prashantadhikari7.com.np/resume](https://www.prashantadhikari7.com.np/resume)
+#javascript/typescript
+  console.log('Prashant knows Javascript and Typescript')
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/pr4xnt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="pr4xnt" height="30" width="40" /></a>
-<a href="https://instagram.com/pr4xnt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="pr4xnt" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/lynx" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="lynx" height="30" width="40" /></a>
-</p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://jasmine.github.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jasmine/jasmine-icon.svg" alt="jasmine" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+#reactJS
+  const [inform, setInform] = useState("Prashant knows ReactJS")
+  
+  useEffect(()=>{
+     if( needMoreInformation ) {
+        setInform("Prashant knows React-Redux for centralized state management.")
+     };
+  })
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pr4shxnt&show_icons=true&locale=en&layout=compact" alt="pr4shxnt" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pr4shxnt&show_icons=true&locale=en" alt="pr4shxnt" /></p>
+#NodeJS and ExpressJS
+  express.get(req, res) => {
+     res.status(201).json({message: "Prashant knows NodeJS and ExpressJS"})
+     }
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pr4shxnt&" alt="pr4shxnt" /></p>
+
+#MongoDB
+  const connectDB = async () => {
+    try {
+        await mongoose.connect( mongodb://localhost:27017 , {
+        });
+        console.log('Prashant knows MongoDB');
+    } 
+  };
+```
+
+
+
+
+## Contributing
+
+I will start my open-source contributions from now on and focus on real world problem solving skills rather than just focusing on maintaining my github streak. You can contact me from the links above in order to collaborate or team up and pitch an idea.
+
