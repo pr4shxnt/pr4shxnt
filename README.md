@@ -50,3 +50,6 @@ Visit [Prashant Adhikari](https://www.prashantadhikari7.com.np/) to explore my p
 
 I will start my open-source contributions from now on and focus on real world problem solving skills rather than just focusing on maintaining my github streak. You can contact me from the links above in order to collaborate or team up and pitch an idea.
 
+## GitHub Streak
+
+![GitHub Streak](https://streak-stats.demolab.com?user=pr4xnt&theme=tokyonight&hide_border=false)
