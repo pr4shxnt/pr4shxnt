@@ -50,6 +50,13 @@ Visit [Prashant Adhikari](https://www.prashantadhikari7.com.np/) to explore my p
 
 I will start my open-source contributions from now on and focus on real world problem solving skills rather than just focusing on maintaining my github streak. You can contact me from the links above in order to collaborate or team up and pitch an idea.
 
+
+## Researches
+
+You can access my research blogs through [Prashant Blogs](https://blogs.prashantadhikari7.com.np) and if you want to contribute to my blogs with your research you can feel free to reach me out through my [email](mailto:prashantadhikareeey.dev@gmail.com). I am building this website for the welfare of students as well as research source for further studies. This site will surely provide a huge platform to the students out there thriving in their journey. 
+
+
+
 ## GitHub Streak
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=pr4shxnt&theme=tokyonight&hide_border=false)
