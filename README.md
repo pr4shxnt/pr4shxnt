@@ -1,6 +1,6 @@
 # Prashant Adhikari
 
-Prashant Adhikari is a software developer with a specialization in MERN stack focusing on full-fleged full-stack website application with efficient products. I am learning devOps practices in order to learn how to deploy my highly efficient project with ease. Currently I'm enrolled in the course oof Bachelor's of Computer Science with Artificial Intelligence in Sunway College Kathmandu. 
+Prashant Adhikari is a software developer with a specialization in MERN stack focusing on full-fleged full-stack website application with efficient products. I am learning devOps practices in order to learn how to deploy my highly efficient project with ease. Currently I'm enrolled in the course oof Bachelor's of Computer Science (Honors) with Artificial Intelligence in Sunway College Kathmandu. 
 
 ## Portfolio
 
@@ -55,7 +55,11 @@ I will start my open-source contributions from now on and focus on real world pr
 
 You can access my research blogs through [Prashant Blogs](https://blogs.prashantadhikari7.com.np) and if you want to contribute to my blogs with your research you can feel free to reach me out through my [email](mailto:prashantadhikareeey.dev@gmail.com). I am building this website for the welfare of students as well as research source for further studies. This site will surely provide a huge platform to the students out there thriving in their journey. 
 
-
+## Quick Links
+[email](mailto:prashantadhikareeey.dev@gmail.com)
+[instagram](https://www.instagram.com/pr4xnt)
+[linked-in](https://www.linkedin.com/in/prashant-adhikariii/)
+[twitter](https://www.x.com/pr4xnt)
 
 ## GitHub Streak
 
