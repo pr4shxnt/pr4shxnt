@@ -52,4 +52,4 @@ I will start my open-source contributions from now on and focus on real world pr
 
 ## GitHub Streak
 
-![GitHub Streak](https://streak-stats.demolab.com?user=pr4xnt&theme=tokyonight&hide_border=false)
+![GitHub Streak](https://streak-stats.demolab.com?user=pr4shxnt&theme=tokyonight&hide_border=false)
