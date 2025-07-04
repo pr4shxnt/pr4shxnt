@@ -5,7 +5,7 @@ I am a software developer with a specialization in MERN stack focusing on full-f
 
 ## Portfolio
 
-Visit [Prashant Adhikari](https://www.prashantadhikari7.com.np/) to explore my portfolio and projects. Any new fellas are allowed to view my portfolio without any hesitation. There is a separate Resume and Project Section to explore my experience as well as my personal Projects. You can contact me through my [Instagram handle](https://www.instagram.com/pr4xnt/) or my [Linked-in Profile](https://www.linkedin.com/in/prashant-adhikariii/) or my [Twitter Profile.](https://www.x.com/pr4xnt/) for any queries regarding my projects or your doubts. I can provide you mentorship or atleast give you a roadmap of how to start and what not to do while learning new things. Subscribe to [my blogs](https://blog.prashantadhikari7.com.np/) for my upcoming contents and researches.
+Visit [Prashant Adhikari](https://www.prashantadhikari7.com.np/) to explore my portfolio and projects. Any new fellas are allowed to view my portfolio without any hesitation. There is a separate Resume and Project Section to explore my experience as well as my personal Projects. You can contact me through my [Instagram handle](https://www.instagram.com/pr4xnt/) or my [Linked-in Profile](https://www.linkedin.com/in/prashant-adhikariii/) or my [Twitter Profile.](https://www.x.com/pr4xnt/) for any queries regarding my projects or your doubts. I can provide you mentorship or atleast give you a roadmap of how to start and what not to do while learning new things. Subscribe to [my blogs](https://prashantadhikari7.com.np/blogs) for my upcoming contents and researches.
 
 ## Languages, Framework and libraries
 
@@ -54,10 +54,10 @@ I will start my open-source contributions from now on and focus on real world pr
 
 ## Researches
 
-You can access my research blogs through [Prashant Blogs](https://blogs.prashantadhikari7.com.np) and if you want to contribute to my blogs with your research you can feel free to reach me out through my [email](mailto:prashantadhikareeey.dev@gmail.com). I am building this website for the welfare of students as well as research source for further studies. This site will surely provide a huge platform to the students out there thriving in their journey. 
+You can access my research blogs through [Prashant Blogs](https://prashantadhikari7.com.np/blogs) and if you want to contribute to my blogs with your research you can feel free to reach me out through my [email](mailto:contact@prashantadhikari7.com). I am building this website for the welfare of students as well as research source for further studies. This site will surely provide a huge platform to the students out there thriving in their journey. 
 
 ## Quick Links
-[email](mailto:prashantadhikareeey.dev@gmail.com)
+[email](mailto:contact@prashantadhikari7.com)
 [instagram](https://www.instagram.com/pr4xnt)
 [linked-in](https://www.linkedin.com/in/prashant-adhikariii/)
 [twitter](https://www.x.com/pr4xnt)
