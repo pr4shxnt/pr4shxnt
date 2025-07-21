@@ -18,8 +18,7 @@ Visit [Prashant Adhikari](https://www.prashantadhikari7.com.np/) to explore my p
   console.log('Prashant knows Javascript and Typescript')
 
 
-#reactJS
-
+#reactJS/NextJS
 'use client'
 
   const [inform, setInform] = useState("Prashant knows ReactJS and NextJS")
