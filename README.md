@@ -5,7 +5,7 @@ I am a junior software developer with a specialization in MERN/MENN stack focusi
 
 ## Portfolio
 
-Visit [Prashant Adhikari](https://www.prashantadhikari7.com.np/) to explore my portfolio and projects. Any new fellas are allowed to view my portfolio without any hesitation. There is a separate Resume and Project Section to explore my experience as well as my personal Projects. You can contact me through my [Instagram handle](https://www.instagram.com/pr4xnt/) or my [Linked-in Profile](https://www.linkedin.com/in/prashant-adhikariii/) or my [Twitter Profile.](https://www.x.com/pr4xnt/) for any queries regarding my projects or your doubts. I can provide you mentorship or atleast give you a roadmap of how to start and what not to do while learning new things. Subscribe to [my blogs](https://prashantadhikari7.com.np/blogs) for my upcoming contents and researches.
+Visit [Prashant Adhikari](https://www.prashantadhikari7.com.np/) to explore my portfolio and projects. Any new fellas are allowed to view my portfolio without any hesitation. There is a separate Resume and Project Section to explore my experience as well as my personal Projects. You can contact me through my [Instagram](https://www.instagram.com/pr4xnt/) or my [Linked-in Profile](https://www.linkedin.com/in/prashant-adhikariii/) or my [Twitter Profile.](https://www.x.com/pr4xnt/) for any queries regarding my projects or your doubts. I can provide you mentorship or atleast give you a roadmap of how to start and what not to do while learning new things. Subscribe to [my blogs](https://prashantadhikari7.com.np/blogs) for my upcoming contents and researches.
 
 ## Languages, Framework and libraries
 
@@ -67,4 +67,5 @@ You can access my research blogs through [Prashant Blogs](https://prashantadhika
 ## GitHub Streak
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=pr4shxnt&theme=tokyonight&hide_border=false)
+
 
