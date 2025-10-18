@@ -37,7 +37,7 @@ Visit [Prashant Adhikari](https://www.prashantadhikari7.com.np/) to explore my p
 
 
 #MongoDB
-  const newSchema = new mongoose.schema({
+  const newSchema = new mongoose.Schema({
     info: {
       type: String,
       required: true
@@ -48,7 +48,7 @@ module.exports = mongoose.model("Model", newSchema)
 
   {
     const info = new Model({info: "Prashant Knows MongoDB with javascript"});
-    await info.save;
+    await info.save();
   }
 
 
@@ -75,6 +75,7 @@ You can access my research blogs through [Prashant Blogs](https://prashantadhika
 ## GitHub Streak
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=pr4shxnt&theme=tokyonight&hide_border=false)
+
 
 
 
