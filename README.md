@@ -1,7 +1,7 @@
 # Prashant Adhikari
 ![](https://komarev.com/ghpvc/?username=pr4shxnt)
 
-I am a junior software developer with a specialization in MERN/MENN stack focusing on full-fleged full-stack website application with efficient products. I am learning devOps practices in order to learn how to deploy my highly efficient project with ease. Currently I'm enrolled in the course oof Bachelor's of Computer Science (Honors) with Artificial Intelligence in Sunway College Kathmandu. Contact me through the Links given below. I am actively open for collaboration and research. 
+I am a junior software developer with a specialization in MERN/MENN stack focusing on full-fleged full-stack website application with efficient products. I am learning devOps practices in order to learn how to deploy my highly efficient project with ease. Currently I'm enrolled in the course of Bachelor's of Computer Science (Honors) with Artificial Intelligence in Sunway College Kathmandu. Contact me through the Links given below. I am actively open for collaboration and research. 
 
 ## Portfolio
 
@@ -75,6 +75,7 @@ You can access my research blogs through [Prashant Blogs](https://prashantadhika
 ## GitHub Streak
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=pr4shxnt&theme=tokyonight&hide_border=false)
+
 
 
 
