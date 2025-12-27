@@ -17,6 +17,12 @@ Visit [Prashant Adhikari](https://www.prashantadhikari7.com.np/) to explore my p
 #javascript/typescript
   console.log('Prashant knows Javascript and Typescript')
 
+#java/jdk
+public class Main {
+    public static void main(String[] args) {
+        System.out.println("Prashant is Learning Java");
+    }
+}
 
 #reactJS/NextJS
 'use client'
@@ -75,6 +81,7 @@ You can access my research blogs through [Prashant Blogs](https://www.prashantad
 ## GitHub Streak
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=pr4shxnt&theme=tokyonight&hide_border=false)
+
 
 
 
